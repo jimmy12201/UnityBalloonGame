@@ -10,6 +10,7 @@ public class Pistol : MonoBehaviour {
     public Camera cameraMan;
     public float force;
     Vector2 direction;
+    public int test;
 
     // Update is called once per frame
 
