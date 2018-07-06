@@ -59,10 +59,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Destroy.cs" />
-    <Compile Include="Assets\Scripts\Pistol.cs" />
-    <Compile Include="Assets\Scripts\pistolController.cs" />
-    <Compile Include="Assets\Scripts\TargetController.cs" />
+    <Compile Include="Assets\Sprites\Scripts\Destroy.cs" />
+    <Compile Include="Assets\Sprites\Scripts\Pistol.cs" />
+    <Compile Include="Assets\Sprites\Scripts\pistolController.cs" />
+    <Compile Include="Assets\Sprites\Scripts\TargetController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/LucasPC/Documents/UnityBalloonGame12/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
