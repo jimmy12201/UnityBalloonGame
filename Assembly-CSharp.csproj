@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{CAD8B6F8-B902-2F81-8A26-8F7E87881F37}</ProjectGuid>
+    <ProjectGuid>{F3010DF8-D481-8989-8FDA-670474DF0D71}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -64,17 +64,10 @@
     <Compile Include="Assets\Sprites\Scripts\pistolController.cs" />
     <Compile Include="Assets\Sprites\Scripts\TargetController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-<<<<<<< HEAD
-      <HintPath>C:/Users/LucasPC/Documents/UnityBalloonGame12/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/LucasPC/Documents/UnityBalloonGame12/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-=======
       <HintPath>C:/Users/jimmy/Documents/UnityProjects/UnityBalloonGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>C:/Users/jimmy/Documents/UnityProjects/UnityBalloonGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
->>>>>>> 270a5e4002e5b02c9ab876cdac0c42a3bc49ef9e
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
